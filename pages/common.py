@@ -1,8 +1,6 @@
-from selenium.common import NoSuchElementException
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.action_chains import ActionChains
-
 
 
 class Common:
@@ -20,7 +18,7 @@ class Common:
 
     def find(self, locator):
         return self.driver.find_element(*locator)
-    
+
     def context_click(self, element):
         return self._action.context_click(element)
 
