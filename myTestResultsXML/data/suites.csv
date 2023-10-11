@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 11 21:48:01 EEST 2023","Wed Oct 11 21:48:01 EEST 2023","0","","test_unittest","TestCalculate","","","test_multiplication",""
+"passed","Wed Oct 11 21:48:01 EEST 2023","Wed Oct 11 21:48:01 EEST 2023","1","","test_unittest","TestCalculate","","","test_addition",""
+"passed","Wed Oct 11 21:48:01 EEST 2023","Wed Oct 11 21:48:01 EEST 2023","1","","test_unittest","TestCalculate","","","test_subtraction",""
+"passed","Wed Oct 11 21:48:01 EEST 2023","Wed Oct 11 21:48:01 EEST 2023","1","","test_unittest","TestCalculate","","","test_division",""
+"passed","Wed Oct 11 22:25:42 EEST 2023","Wed Oct 11 22:25:50 EEST 2023","8453","","test_validation","","","","test_authorization_not_accept_cookies",""
+"passed","Wed Oct 11 21:48:01 EEST 2023","Wed Oct 11 21:48:01 EEST 2023","1","","test_unittest","TestCalculate","","","test_invalid_operator",""
+"passed","Wed Oct 11 22:25:24 EEST 2023","Wed Oct 11 22:25:32 EEST 2023","8085","","test_validation","","","","test_authorization_accept_cookies",""

@@ -1,0 +1,1 @@
+{"total":7,"items":[{"uid":"996ae83dab158fd952303d9d634aaea3","name":"Test authorization with cookies","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"b8d9fd5340ebdd5207dbb692317ce0ec","name":"Test authorization without cookies","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
